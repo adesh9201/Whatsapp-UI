@@ -1,6 +1,6 @@
 # whatsapp
 
-A new Flutter project.
+Whatsapp using Flutter.
 
 ## Getting Started
 
